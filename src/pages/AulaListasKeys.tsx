@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+
 
 export default function AulaListasKeys() {
   const [respostas, setRespostas] = useState<Record<string, string>>({});

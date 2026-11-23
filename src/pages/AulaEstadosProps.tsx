@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+
 
 export default function AulaEstadosProps() {
   const [nome, setNome] = useState("Maria");
